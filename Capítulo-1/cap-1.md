@@ -320,8 +320,12 @@ A continuación, veremos cómo podemos hacer un commit desde Visual Studio Code.
 Para hacer un commit desde Visual Studio Code, es necesario seguir los siguientes pasos:
 
 1. Hacer cambios en el código.
+
+   
+
 2. Añadir los archivos al área de preparación.
-   <img src="image/cap-1/1721135068726.png" alt="1721135068726" style="zoom: 80%;" />
+
+3. <img src="image/cap-1/1721135068726.png" alt="1721135068726" style="zoom: 80%;" />
 
 <p style="text-align: center; font-size:12px; font-family: sans-serif; position:relative; top:-24px; font-style:italic; font-weight: 100; opacity:80%">Hacer clic en el tercer ícono de la barra lateral izquierda</p>
 
@@ -333,8 +337,10 @@ En la barra lateral izquierda, haremos clic en el tercer ícono que representa e
 
 3. Hacer un commit con los cambios.
 
-   <img src="image/cap-1/1721135343835.png" alt="1721135343835" style="zoom:80%;" />
+   
 
+   <img src="image/cap-1/1721135343835.png" alt="1721135343835" style="zoom:80%;" />
+   
    <p style="text-align: center; font-size:12px; font-family: sans-serif; position:relative; top:-24px; font-style:italic; font-weight: 100; opacity:80%">El botón [+] añade el archivo al estado "Staged"</p>
 
 En la parte superior de la vista de control de versiones, veremos un campo de texto en el que podemos escribir un mensaje para el commit. Una vez que hayamos escrito el mensaje, haremos clic en el botón de "✓" para hacer el commit.
